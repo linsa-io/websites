@@ -1,5 +1,5 @@
 # Awesome Websites [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
+*Please read the [contribution guidelines](CONTRIBUTING.md#contribution-guidelines) before contributing.*
 
 ## General
 - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com) - Find the shortest navigation paths between any two Wikipedia pages.
@@ -359,7 +359,7 @@
 - [Best websites a progammer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#readme)
 
 ## Contributing
-See [contribution guidelines](contributing.md#contribution-guidelines).
+See [contribution guidelines](CONTRIBUTING.md#contribution-guidelines).
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
