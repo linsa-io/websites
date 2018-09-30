@@ -162,7 +162,7 @@
 - [Pastebin](https://pastebin.com/) - Store any text online for easy sharing.
 - [Pinboard (popular)](https://pinboard.in/popular/)
 - [Pinboard (recent)](https://pinboard.in/recent/)
-- [Pinterest](https://nl.pinterest.com/) - Pin online ideas to a central board for later.  Navigate to other people's pins as well.
+- [Pinterest](https://nl.pinterest.com/) - Pin online ideas to a central board for later. Navigate to other people's pins as well.
 - [Pocket](https://getpocket.com/a/queue/list/) - Save internet links for later.
 - [Product hunt](https://www.producthunt.com/)
 - [Project euler](https://projecteuler.net/archives)
@@ -179,7 +179,7 @@
 - [Startup tracker](https://startuptracker.io/home)
 - [Steemit](https://steemit.com/@nikivi/feed)
 - [Telegraph](http://telegra.ph/)
-- [Topl](http://www.topl.io/) -  Community-driven curation for lists.
+- [Topl](http://www.topl.io/) - Community-driven curation for lists.
 - [Trakt](https://trakt.tv/dashboard) - Track which TV shows and Movies you've watched.
 - [Tumblr](https://www.tumblr.com) - Blogging Website.
 - [Tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/HomePage) - Read about "Tropes" in popular usage.
@@ -230,7 +230,7 @@
 - [Coursera](https://www.coursera.org/)
 - [Courseroot](https://courseroot.com/) - Search best online courses.
 - [EdX](https://www.edx.org/)
-- [Egghead](https://egghead.io/) -  Group of working web development professionals and open source contributors that provide you with video courses.
+- [Egghead](https://egghead.io/) - Group of working web development professionals and open source contributors that provide you with video courses.
 - [Explained visually](http://setosa.io/ev/) - Website dedicated to Explorable Explanations.
 - [Freecodecamp](https://www.freecodecamp.com/)
 - [Internet Curated](https://internetcurated.com/) - Collection of 150+ hand-picked curated resources & tools.
@@ -426,5 +426,5 @@
 
 ---
 
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
