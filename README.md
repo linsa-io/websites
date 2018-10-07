@@ -142,8 +142,8 @@
 - [Google slides](https://docs.google.com/presentation/u/0/)
 - [Google trends](https://trends.google.com/trends/) - Discover what people are searching about.
 - [Grouvee](https://www.grouvee.com/) - Track your video game collection.
-- [HackMD](https://hackmd.io/) - Realtime, Multiplatform Collaborative Markdown note editor.
 - [Hackerrank](https://www.hackerrank.com/)
+- [HackMD](https://hackmd.io/) - Realtime, Multiplatform Collaborative Markdown note editor.
 - [Heroku apps](https://dashboard.heroku.com/apps)
 - [How stuff works](http://www.howstuffworks.com/)
 - [IFTT](https://ifttt.com/discover) - Find Applets.
@@ -240,8 +240,8 @@
 - [Leetcode](https://leetcode.com) - Platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 - [Library of Babel](http://libraryofbabel.info/)
 - [MDN](https://developer.mozilla.org/en-US/)
-- [MIT courses](https://ocw.mit.edu/courses/)
 - [Metacademy](https://www.metacademy.org/)
+- [MIT courses](https://ocw.mit.edu/courses/)
 - [Open culture](http://www.openculture.com/)
 - [Open yale courses](http://oyc.yale.edu/)
 - [Physics Travel Guide](https://physicstravelguide.com)
@@ -292,11 +292,11 @@
 - [Geeksforgeeks](http://www.geeksforgeeks.org/) - Portal to Computer Science topics.
 - [Golang news](https://golangnews.com/)
 - [Golang weekly](https://golangweekly.com)
-- [HN favourites](http://www.hnfavorites.com/#)
-- [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
 - [Hacker news (new)](https://news.ycombinator.com/newest) - RSS for Hacker News.
 - [Hacker news ranking](http://hnrankings.info/search/)
 - [Hacker news](https://hckrnews.com/)
+- [HN favourites](http://www.hnfavorites.com/#)
+- [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
 - [Medium - top](https://medium.com/browse/top)
 - [Medium drafts](https://medium.com/me/stories/drafts)
 - [Medium](https://medium.com/)
@@ -387,11 +387,12 @@
 - [Fast fingers](https://10fastfingers.com/typing-test/english) - Online typing test.
 - [Google translate](https://translate.google.com/)
 - [Href tools](https://hreftools.com/) - Online web tools to get work done faster.
-- [JSON placeholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
 - [Javascript event codes](http://keycode.info/) - Press keys to get the JavaScript keycodes.
 - [Js bin](https://jsbin.com/?html,output)
 - [Jsfiddle](https://jsfiddle.net)
+- [JSON placeholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
 - [Know it all](https://know-it-all.io/) - Web list that helps you track what you know and what you don't about web development.
+- [lpaste](http://lpaste.net) - Pastebin.
 - [Overleaf](https://www.overleaf.com) - Online LaTeX editing.
 - [Protonmail](https://mail.protonmail.com/login) - Free secure Email hosted in Switzerland.
 - [Rawgit](http://rawgit.com/)
@@ -401,15 +402,14 @@
 - [Sketch toy](http://sketchtoy.com/) - Free online drawing application that lets you share step-by-step replays of your work.
 - [Sleep time](http://sleepyti.me/) - An online tool that can help you maximize your quality of sleep by hacking your sleep cycle.
 - [Symbolab](https://www.symbolab.com/) - Online calculator that can do Calculus.
-- [TIO](https://tio.run/#) - Family of online interpreters.
 - [Thesaurus](http://www.thesaurus.com/) - Online Thesaurus.
+- [TIO](https://tio.run/#) - Family of online interpreters.
 - [TypeScript Playground](https://www.typescriptlang.org/play) - Compile TS to JS or run it.
 - [Updwn](http://updwn.co/) - Make simple, realtime polls.
 - [Vim cheat sheet](https://vim.rtorr.com/) - Cheat sheet for vim shortcuts.
 - [Vocaroo](http://vocaroo.com/) - Voice recording service.
 - [Wakatime](https://wakatime.com/dashboard) - Track time and amount you code in particular languages.
 - [Wolfram alpha](http://www.wolframalpha.com/) - Online calculator for higher math computation.
-- [lpaste](http://lpaste.net) - Pastebin.
 
 ## Video
 
