@@ -24,10 +24,8 @@
 - [Machine learning](#machine-learning)
 - [Music](#music)
 - [News](#news)
-- [Other](#other)
 - [Photo](#photo)
 - [Profiles](#profiles)
-- [Related](#related)
 - [Russian](#russian)
 - [Search](#search)
 - [Services](#services)
@@ -36,6 +34,8 @@
 - [Tools](#tools)
 - [Video](#video)
 - [Wiki](#wiki)
+- [Other](#other)
+- [Related](#related)
 
 ---
 
@@ -198,9 +198,9 @@
 - [Free interactive tutorials](https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md)
 - [Git awards](http://git-awards.com) - Find out how your GitHub profile measures up.
 - [Git logs](http://www.gitlogs.com/) - Discover trending repos on GitHub.
+- [Github info](http://githut.info/) - Statistics about GitHub.
 - [GitHub issues](https://github.com/issues) - Look at all of your GitHub Issues (Created, Assigned, or Mentioned).
 - [GitHub profile visualiser](https://github-profile-summary.com/search) - Tool for visualizing GitHub profiles.
-- [Github info](http://githut.info/) - Statistics about GitHub.
 - [Github releases](http://www.somsubhra.com/github-release-stats/)
 - [Github trending](https://github.com/trending) - Top trending GitHub repos.
 - [Github](https://github.com/) - Coding through online collaboration.
@@ -209,8 +209,8 @@
 
 ## Go Resources and Tools
 
-- [Go FAQ](https://golang.org/doc/faq#nil_error)
 - [Go compiler explorer](https://go.godbolt.org/)
+- [Go FAQ](https://golang.org/doc/faq#nil_error)
 - [Go play space](https://goplay.space/) - Experimental alternative Go Playground frontend that is built in Go itself.
 - [Godoc](https://godoc.org/) - Search for Go Packages.
 - [Visualgo](https://visualgo.net/en)
@@ -310,12 +310,6 @@
 - [Sparkman](http://sparkman.strikingly.com/)
 - [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
 
-## Other
-
-- [HN leader board](https://hnleaderboard.com/?)
-- [Index](https://index.co/) - Connecting startups, corporate brands, and investors.
-- [Octopart](https://octopart.com/) - Search engine for electronic parts.
-
 ## Photo
 
 - [Flickr - explore](https://www.flickr.com/explore)
@@ -330,10 +324,6 @@
 ## Profiles
 
 - [Gwern](https://www.gwern.net/)
-
-## Related
-
-- [Best websites a progammer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#readme)
 
 ## Russian
 
@@ -424,6 +414,16 @@
 ## Wiki
 
 - [Keyboard Maestro](https://wiki.keyboardmaestro.com/User_Manual)
+
+## Other
+
+- [HN leader board](https://hnleaderboard.com/?)
+- [Index](https://index.co/) - Connecting startups, corporate brands, and investors.
+- [Octopart](https://octopart.com/) - Search engine for electronic parts.
+
+## Related
+
+- [Best websites a progammer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#readme)
 
 ---
 
