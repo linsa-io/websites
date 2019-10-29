@@ -3,8 +3,6 @@
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 
----
-
 #### Contents
 
 - [Apple Device Tools](#apple-device-tools)
@@ -36,8 +34,6 @@
 - [Wiki](#wiki)
 - [Other](#other)
 - [Related](#related)
-
----
 
 ## Apple Device Tools
 
@@ -415,6 +411,7 @@
 
 - [Keyboard Maestro](https://wiki.keyboardmaestro.com/User_Manual)
 
+<<<<<<< Updated upstream
 ## Other
 
 - [HN leader board](https://hnleaderboard.com/?)
@@ -427,6 +424,11 @@
 
 ---
 
+||||||| merged common ancestors
+---
+
+=======
+>>>>>>> Stashed changes
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
