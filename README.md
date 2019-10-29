@@ -1,7 +1,4 @@
-# Websites
-
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
-[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+# Websites [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme) [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 
 #### Contents
 
@@ -411,7 +408,6 @@
 
 - [Keyboard Maestro](https://wiki.keyboardmaestro.com/User_Manual)
 
-<<<<<<< Updated upstream
 ## Other
 
 - [HN leader board](https://hnleaderboard.com/?)
@@ -422,13 +418,7 @@
 
 - [Best websites a progammer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#readme)
 
----
-
-||||||| merged common ancestors
----
-
-=======
->>>>>>> Stashed changes
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+[![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
