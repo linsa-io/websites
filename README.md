@@ -225,6 +225,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Code academy](https://www.codecademy.com/learn/all) - Free online coding tutorials.
 - [Coursera](https://www.coursera.org/)
 - [Courseroot](https://courseroot.com/) - Search best online courses.
+- [Educative.io] - Online tutorials
 - [EdX](https://www.edx.org/)
 - [Egghead](https://egghead.io/) - Group of working web development professionals and open source contributors that provide you with video courses.
 - [Explained visually](http://setosa.io/ev/) - Website dedicated to Explorable Explanations.
@@ -312,6 +313,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Ill gander](https://illgander.com/)
 - [Imgur](https://imgur.com/)
 - [Instagram](https://www.instagram.com/)
+- [pexels](https://www.pexels.com/) - The best free stock photos & videos shared by talented creators. 
 - [Pixabay](https://pixabay.com/) - Shared images and photos (many without Copyright).
 - [Reaction gif albums](http://reactiongifsarchive.imgur.com/) - Library for Reddit's favorite reaction gifs.
 - [Unsplash](https://unsplash.com/) - A large collection of free photos.
