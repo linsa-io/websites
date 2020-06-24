@@ -1,8 +1,6 @@
-# Websites [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+# Websites [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 
-_Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
-
-#### Contents
+_Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Apple Device Tools](#apple-device-tools)
 - [Cloud services](#cloud-services)
@@ -227,6 +225,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Courseroot](https://courseroot.com/) - Search best online courses.
 - [Educative.io] - Online tutorials
 - [EdX](https://www.edx.org/)
+- [Encyclopedia Britannica](https://www.britannica.com/)
 - [Egghead](https://egghead.io/) - Group of working web development professionals and open source contributors that provide you with video courses.
 - [Explained visually](http://setosa.io/ev/) - Website dedicated to Explorable Explanations.
 - [Freecodecamp](https://www.freecodecamp.com/)
@@ -313,7 +312,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Ill gander](https://illgander.com/)
 - [Imgur](https://imgur.com/)
 - [Instagram](https://www.instagram.com/)
-- [pexels](https://www.pexels.com/) - The best free stock photos & videos shared by talented creators. 
+- [pexels](https://www.pexels.com/) - The best free stock photos & videos shared by talented creators.
 - [Pixabay](https://pixabay.com/) - Shared images and photos (many without Copyright).
 - [Reaction gif albums](http://reactiongifsarchive.imgur.com/) - Library for Reddit's favorite reaction gifs.
 - [Unsplash](https://unsplash.com/) - A large collection of free photos.
@@ -420,9 +419,9 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Related
 
-- [Best websites a progammer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#readme)
+- [Best websites a progammer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
-[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
-[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
+[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
