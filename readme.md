@@ -276,6 +276,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Soundcloud](https://soundcloud.com/stream) - Music streaming.
 - [Touch pianist](http://touchpianist.com/)
 - [YTRadio](https://ytradio.xyz/#/) - Live music playlists from YouTube.
+- [Spotify](https://www.spotify.com/in/) - Digital music service that gives you access to millions of songs.
 
 ## News
 
