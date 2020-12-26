@@ -385,6 +385,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Rawgit](http://rawgit.com/)
 - [Regex101](https://regex101.com/)
 - [Regexr](http://regexr.com/) - Online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
+- [Regulex](https://jex.im/regulex/) - Regular Expression Visualizer.
 - [ShareLaTeX](https://www.sharelatex.com) - Online LaTeX editing.
 - [Sketch toy](http://sketchtoy.com/) - Free online drawing application that lets you share step-by-step replays of your work.
 - [Sleep time](http://sleepyti.me/) - An online tool that can help you maximize your quality of sleep by hacking your sleep cycle.
