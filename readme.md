@@ -45,6 +45,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Dropbox](https://www.dropbox.com/home) - Cloud Storage.
 - [Google Drive](https://drive.google.com/drive/my-drive) - Cloud storage and cloud editing for files.
 - [iCloud](https://www.icloud.com)
+- [os.directory](https://os.directory) - Operating System like linux distributed. 
 
 ## Cryptocurrencies
 
