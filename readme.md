@@ -393,6 +393,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Sleep time](http://sleepyti.me/) - An online tool that can help you maximize your quality of sleep by hacking your sleep cycle.
 - [Symbolab](https://www.symbolab.com/) - Online calculator that can do Calculus.
 - [Thesaurus](http://www.thesaurus.com/) - Online Thesaurus.
+- [ToolKnit](https://toolknit.com/) - Free browser-based tools for PDFs, images, video, audio, text, time, and creative tasks, with many utilities running locally in your browser.
 - [TIO](https://tio.run/#) - Family of online interpreters.
 - [TypeScript Playground](https://www.typescriptlang.org/play) - Compile TS to JS or run it.
 - [Updwn](http://updwn.co/) - Make simple, realtime polls.
