@@ -77,6 +77,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Realm](https://realm.io/)
 - [Respresso](https://respresso.io/) - Let your whole team edit resource files (localizations, images, colors, etc.) with Respresso’s online editor to get them in a platform-specific format, automatically delivered to your source code.
 - [Stackshare tools](https://stackshare.io/trending/tools) - See which open source tools are trending across StackShare.
+- [PickYourTech](https://www.pickyourtech.com) - Catalog of open-source projects, categorized with detailed metadata and open-source alternatives to popular SaaS platforms.
 
 ## Experiments
 
