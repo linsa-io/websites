@@ -143,7 +143,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [How stuff works](http://www.howstuffworks.com/)
 - [IFTT](https://ifttt.com/discover) - Find Applets.
 - [Instant.io](https://instant.io/) - Torrent Tracker.
-- [Interviewbit](https://www.interviewbit.com/)
+- [Interviewbit]([https://www.interviewbit.com/](https://www.interviewbit.com/coding-interview-questions/)
 - [Jumpshare](https://jumpshare.com/)
 - [Jupyter notebook](http://nbviewer.jupyter.org/) - RStudio Style Markdown Notebooks done in Python.
 - [Learn anything](https://learn-anything.xyz) - Platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community.
@@ -233,6 +233,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Freecodecamp](https://www.freecodecamp.com/)
 - [Internet Curated](https://internetcurated.com/) - Collection of 150+ hand-picked curated resources & tools.
 - [Interview cake](https://www.interviewcake.com/) - Practice for programming interviews.
+- [InterviewBit](https://www.interviewbit.com/technical-interview-questions/) - The Ultimate Resource for Technical Interview Preparation.
 - [Lecture search](https://www.findlectures.com/) - Find Online Lectures.
 - [Leetcode](https://leetcode.com) - Platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 - [Library of Babel](http://libraryofbabel.info/)
@@ -401,6 +402,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Vocaroo](http://vocaroo.com/) - Voice recording service.
 - [Wakatime](https://wakatime.com/dashboard) - Track time and amount you code in particular languages.
 - [Wolfram alpha](http://www.wolframalpha.com/) - Online calculator for higher math computation.
+- [Online Compiler](https://www.interviewbit.com/online-python-compiler/) - Practice Programs Online with this Compiler(C,C++,Java,Python and JS).
 
 ## Video
 
