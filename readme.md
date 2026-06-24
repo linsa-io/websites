@@ -323,6 +323,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Profiles
 
 - [Gwern](https://www.gwern.net/)
+- [Parish Khan](https://parish.cv) - Senior software developer portfolio with VS Code-inspired interface.
 
 ## Russian
 
