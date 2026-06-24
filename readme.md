@@ -244,6 +244,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Physics Travel Guide](https://physicstravelguide.com)
 - [Quizlet](https://quizlet.com/latest)
 - [Ray Wenderlich](https://www.raywenderlich.com/)
+- [Scaler](https://www.scaler.com/topics/) - Free resouces to coding tutorials
 - [Silicon valley dictionary](http://svdictionary.com/) - Online dictionary targeted at Coders, similar to UrbanDictionary
 - [TED](https://www.ted.com/) - Free Expert Academic Talks.
 - [Tutorials point](https://www.tutorialspoint.com/index.htm) - Online Tutorials at your own pace.
