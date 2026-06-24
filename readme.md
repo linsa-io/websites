@@ -79,7 +79,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Stackshare tools](https://stackshare.io/trending/tools) - See which open source tools are trending across StackShare.
 
 ## Experiments
-
+- [crzy.site](https://crzy.site) - A growing collection of absolutely pointless single-page websites. Each one dumber than the last.
 - [WebGL water](http://madebyevan.com/webgl-water/)
 
 ## Finance
