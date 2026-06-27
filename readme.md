@@ -377,6 +377,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Google translate](https://translate.google.com/)
 - [Href tools](https://hreftools.com/) - Online web tools to get work done faster.
 - [Javascript event codes](http://keycode.info/) - Press keys to get the JavaScript keycodes.
+- [Jisuanqi 3000](https://jsq3000.com/) - China-localized online calculators for mortgage, income tax, take-home salary, auto purchase cost, compound interest, BMI and body fat.
 - [Js bin](https://jsbin.com/?html,output)
 - [Jsfiddle](https://jsfiddle.net)
 - [JSON placeholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
