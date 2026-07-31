@@ -368,6 +368,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Can I use](http://caniuse.com/) - Use Google Analytics to decide whether users can use a feature in your website.
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 - [Cdecl](https://cdecl.org/) - Translate C code to English.
+- [Concrete Estimator Hub](https://concreteestimatorhub.com/) - Estimates concrete slab, footing, post-hole, bag, and ready-mix quantities for small construction projects.
 - [Crontab guru](https://crontab.guru/) - Cronjob monitor.
 - [Debuggex](https://debuggex.com/) - Online visual regex tester. JavaScript, Python, and PCRE.
 - [Deepl](https://www.deepl.com/translator)
