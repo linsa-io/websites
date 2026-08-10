@@ -88,6 +88,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Booking](https://www.booking.com/)
 - [Etsy](https://www.etsy.com/?ref=lgo) - Online Shopping Platform.
 - [Finviz](http://finviz.com/)
+- [IndepAI](https://indepai.app/tools) - Find the city that shortens your path to financial independence: free FIRE and geo-arbitrage calculators plus cost-of-living data across 11,800+ cities.
 - [Massdrop](https://www.massdrop.com/my-communities) - Community-Driven Commerce.
 - [Patreon](https://www.patreon.com/home) - Join your favorite creator's community and pay them for making the stuff you love.
 - [Paypal](https://www.paypal.com)
