@@ -59,6 +59,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Flat UI colours](https://flatuicolors.com/)
 - [UI movement](https://uimovement.com)
+- [Codex Theme Builder](https://codextheme.tools/) - Free browser tool to design and export custom Codex CLI themes.
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com/) - Convert any photo into a free crochet pattern grid.
 
 ## Development
 
@@ -100,6 +102,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Codewars](https://www.codewars.com/)
 - [Codingame](https://www.codingame.com/home)
 - [Itch.io](https://itch.io/) - Simple way to find and share indie games online for free.
+- [SkyCOTL Tools](https://skycotl.tools/) - Free Sky: Children of the Light companion tools for candles, quests, and seasons.
 
 ## General
 
@@ -401,6 +404,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Vocaroo](http://vocaroo.com/) - Voice recording service.
 - [Wakatime](https://wakatime.com/dashboard) - Track time and amount you code in particular languages.
 - [Wolfram alpha](http://www.wolframalpha.com/) - Online calculator for higher math computation.
+- [WattsCalc](https://wattscalc.com/) - Free wattage, amp, and kWh electricity calculator.
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com/) - Free lawn mowing cost estimator.
+- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com/) - Free embroidery pricing calculator.
+- [Pressure Washer Fix](https://pressurewasherfix.com/) - Free pressure washer troubleshooting guides.
 
 ## Video
 
