@@ -380,6 +380,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Js bin](https://jsbin.com/?html,output)
 - [Jsfiddle](https://jsfiddle.net)
 - [JSON placeholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
+- [JSON Diff](https://alltoolsverse.com/tools/json-diff/) - Compare two JSON documents with structural highlighting, path level changes, and side by side or unified views.
 - [Know it all](https://know-it-all.io/) - Web list that helps you track what you know and what you don't about web development.
 - [lpaste](http://lpaste.net) - Pastebin.
 - [Overleaf](https://www.overleaf.com) - Online LaTeX editing.
