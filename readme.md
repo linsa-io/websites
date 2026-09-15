@@ -53,6 +53,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Bitstamp](https://www.bitstamp.net)
 - [Coin marketcap](https://coinmarketcap.com/) - Cryptocurrency Market Capitalizations.
 - [Coingecko](https://www.coingecko.com/en) - Cryptocurrencies charts.
+- [Crypto Return Calc](https://cryptoreturncalc.com/) - Calculates profit or loss for one cryptocurrency buy and sell after percentage fees on both sides.
 - [gate.io](https://gate.io/) - Blockchain Assets Trading Platform.
 
 ## Design
