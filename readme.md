@@ -364,6 +364,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Tools
 
 - [10 min mail](https://10minutemail.com/10MinuteMail/index.html?dswid=-4717) - Have a temporary email for 10 minutes.
+- [Mailfo](https://mailfo.pages.dev) - Free disposable temporary email service to receive instant verification codes & avoid spam.
 - [Asciinema](https://asciinema.org/~nikivi) - Free and open source way to record terminal sessions and share them on the web.
 - [Can I use](http://caniuse.com/) - Use Google Analytics to decide whether users can use a feature in your website.
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
