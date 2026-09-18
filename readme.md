@@ -91,6 +91,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Massdrop](https://www.massdrop.com/my-communities) - Community-Driven Commerce.
 - [Patreon](https://www.patreon.com/home) - Join your favorite creator's community and pay them for making the stuff you love.
 - [Paypal](https://www.paypal.com)
+- [Quantral](https://quantral.com) - Stock sentiment scores 0-100 built from what retail investors and market commentators say on Reddit, X, Substack and YouTube.
 - [Trading view](https://www.tradingview.com/)
 
 ## Games
