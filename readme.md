@@ -336,6 +336,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Aminer](https://cn.aminer.org/)
 - [Bangs](https://duckduckgo.com/bang?)
 - [Duckduckgo](https://duckduckgo.com/) - Private Web Searching.
+- [Unslop Search](https://unslopsearch.com/) - Anti-slop web search tool for cleaner, less AI-slop results.
 - [Google scholar](https://scholar.google.nl/) - Easy searching for Academic Articles.
 - [Slant](https://www.slant.co/)
 - [Yandex](https://www.yandex.com/)
