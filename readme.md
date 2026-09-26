@@ -118,6 +118,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Coderpad](https://coderpad.io/) - Similar to Google Docs, but can execute code.
 - [Couchsurfing](https://www.couchsurfing.com) - Meet and stay with locals all around the world.
 - [Coworking coffee](https://www.coworking.coffee/) - Find workplaces with coffee and wifi, curated by the community.
+- [CoworkingView](https://coworkingview.com/en) - Compare coworking spaces, private offices and meeting rooms across about 60 European cities and Dubai.
 - [Daybook](https://www.daybook.co/) - Online Notebook.
 - [Desmos](https://www.desmos.com) - Online Graphing Utility.
 - [Devpost](https://devpost.com/)
