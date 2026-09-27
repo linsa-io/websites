@@ -309,6 +309,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
 
 ## Photo
+- [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
 
 - [Flickr - explore](https://www.flickr.com/explore)
 - [Flickr](https://www.flickr.com/)
