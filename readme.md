@@ -386,6 +386,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [powerfulwebsites.online](https://powerfulwebsites.online/) - A curated directory of highly useful, viral, and hidden tools across the internet with Quiz and AI-assistant.
 - [Protonmail](https://mail.protonmail.com/login) - Free secure Email hosted in Switzerland.
 - [Rawgit](http://rawgit.com/)
+- [ReactionMetric](https://reactionmetric.com/) - Free browser reaction-time benchmark with repeatable five-trial sessions and median, average, best, and consistency results.
 - [Regex101](https://regex101.com/)
 - [Regexr](http://regexr.com/) - Online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 - [Regulex](https://jex.im/regulex/) - Regular Expression Visualizer.
