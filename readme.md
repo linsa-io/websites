@@ -59,6 +59,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Flat UI colours](https://flatuicolors.com/)
 - [UI movement](https://uimovement.com)
+- [Tesla Wrap Generator](https://teslawrapgenerator.com/)
 
 ## Development
 
