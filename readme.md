@@ -368,6 +368,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Can I use](http://caniuse.com/) - Use Google Analytics to decide whether users can use a feature in your website.
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 - [Cdecl](https://cdecl.org/) - Translate C code to English.
+- [Compare Two Lists](https://comparetwolists.net/) - Compare pasted lists or imported TXT, CSV and XLSX columns to find shared values, differences and duplicates, with browser-local processing and result exports.
 - [Crontab guru](https://crontab.guru/) - Cronjob monitor.
 - [Debuggex](https://debuggex.com/) - Online visual regex tester. JavaScript, Python, and PCRE.
 - [Deepl](https://www.deepl.com/translator)
