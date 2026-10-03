@@ -245,6 +245,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Quizlet](https://quizlet.com/latest)
 - [Ray Wenderlich](https://www.raywenderlich.com/)
 - [Silicon valley dictionary](http://svdictionary.com/) - Online dictionary targeted at Coders, similar to UrbanDictionary
+- [Subskills](https://subskills.xyz) - Free sports technique videos sorted by sport, sub-skill and level.
 - [TED](https://www.ted.com/) - Free Expert Academic Talks.
 - [Tutorials point](https://www.tutorialspoint.com/index.htm) - Online Tutorials at your own pace.
 - [Udacity](https://www.udacity.com/)
