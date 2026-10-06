@@ -374,6 +374,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Donger list](http://dongerlist.com/) - Set of unicode characters assembled to form a text emoticon.
 - [Draw.io](https://www.draw.io/) - Online flowchart maker.
 - [Fast fingers](https://10fastfingers.com/typing-test/english) - Online typing test.
+- [FollowerKaufen.at engagement calculator](https://followerkaufen.at/tools/engagement-rate) - Calculate engagement from manually entered likes, comments and followers, reach or views in a free German-language utility for Austria.
 - [Google translate](https://translate.google.com/)
 - [Href tools](https://hreftools.com/) - Online web tools to get work done faster.
 - [Javascript event codes](http://keycode.info/) - Press keys to get the JavaScript keycodes.
