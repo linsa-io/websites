@@ -384,6 +384,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [lpaste](http://lpaste.net) - Pastebin.
 - [Overleaf](https://www.overleaf.com) - Online LaTeX editing.
 - [powerfulwebsites.online](https://powerfulwebsites.online/) - A curated directory of highly useful, viral, and hidden tools across the internet with Quiz and AI-assistant.
+- [ProbeKits](https://probekits.com/tools) - Test keyboards, mice, displays, webcams, microphones, audio and gamepads in the browser without installation or an account.
 - [Protonmail](https://mail.protonmail.com/login) - Free secure Email hosted in Switzerland.
 - [Rawgit](http://rawgit.com/)
 - [Regex101](https://regex101.com/)
