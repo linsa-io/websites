@@ -114,6 +114,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Bold.io](https://bold.io/)
 - [Brilliant](https://brilliant.org/) - Online math brain puzzles.
 - [Bubblehunt](https://bubblehunt.com/)
+- [Ceramic Coating Near Me](https://ceramiccoatingshopsnearme.com/) - Independent directory and publication for finding ceramic-coating shops in the United States and understanding coating options.
 - [Chemdiary](https://chemdiary.com/users/sign_in) - Track your drug, research chemical and nootropic use.
 - [Coderpad](https://coderpad.io/) - Similar to Google Docs, but can execute code.
 - [Couchsurfing](https://www.couchsurfing.com) - Meet and stay with locals all around the world.
