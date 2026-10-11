@@ -401,6 +401,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Vocaroo](http://vocaroo.com/) - Voice recording service.
 - [Wakatime](https://wakatime.com/dashboard) - Track time and amount you code in particular languages.
 - [Wolfram alpha](http://www.wolframalpha.com/) - Online calculator for higher math computation.
+- [WorkToolMap](https://worktoolmap.com/) - Find software and online tools by everyday tasks, with source notes distinguishing public-information reviews from hands-on testing.
 
 ## Video
 
