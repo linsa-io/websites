@@ -95,6 +95,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Games
 
+- [AI Browser Games](https://aibrowsergames.net/) - Browser game directory with 100 official iDev.Games embeds, creator credits, filters and four source-backed AI-assisted titles.
 - [Checkio](https://py.checkio.org/) - Games for coding.
 - [Code combat](https://codecombat.com/) - Programming Game designed for Students.
 - [Codewars](https://www.codewars.com/)
