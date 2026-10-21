@@ -100,6 +100,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Codewars](https://www.codewars.com/)
 - [Codingame](https://www.codingame.com/home)
 - [Itch.io](https://itch.io/) - Simple way to find and share indie games online for free.
+- [SteamDownload](https://www.steamdownload.cn/?lang=en) - Free downloads of 9,000+ PC, Switch, retro and mobile games, mirrored on several cloud drives, with an AI game recommender.
 
 ## General
 
