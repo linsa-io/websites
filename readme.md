@@ -279,6 +279,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Touch pianist](http://touchpianist.com/)
 - [YTRadio](https://ytradio.xyz/#/) - Live music playlists from YouTube.
 - [Spotify](https://www.spotify.com/in/) - Digital music service that gives you access to millions of songs.
+- [The Audio Stuff Tools](https://theaudiostuff.com/tools/) - Free browser audio tools including a tone generator, speaker test, ABX blind test, EQ ear training and audio calculators.
 
 ## News
 
