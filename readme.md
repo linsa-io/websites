@@ -220,6 +220,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Learn
 
 - [Alcamy](https://alcamy.org/library) - Internet's catalog of knowledge.
+- [Animal Profiles](https://animalprofiles.com/) - Free animal encyclopedia with 2,873 profiles, including fact files with size, diet, habitat, IUCN status and range maps.
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 - [Class central](https://www.class-central.com/)
 - [Code academy](https://www.codecademy.com/learn/all) - Free online coding tutorials.
