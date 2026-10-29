@@ -122,6 +122,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Desmos](https://www.desmos.com) - Online Graphing Utility.
 - [Devpost](https://devpost.com/)
 - [Digital ocean](https://www.digitalocean.com/)
+- [Ditchly](https://ditchly.co) - Free and open-source alternatives to paid apps, with a score for each one.
 - [Dribble](https://dribbble.com/shots)
 - [Eventbrite](https://www.eventbrite.com/)
 - [Exercism](http://exercism.io/) - Online execution of programming problems.
