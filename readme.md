@@ -360,6 +360,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Failory](https://failory.com/) - Learn from failed startups.
 - [Indie Hackers](https://www.indiehackers.com/) - Community and stories of successful solo founders.
+- [SitePatent](https://sitepatent.com/) - Directory of startups, tools and online products, organized by category and tech stack.
 
 ## Tools
 
