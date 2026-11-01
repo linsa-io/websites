@@ -360,6 +360,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Failory](https://failory.com/) - Learn from failed startups.
 - [Indie Hackers](https://www.indiehackers.com/) - Community and stories of successful solo founders.
+- [MEDIAPRONET](https://mediapronet.com/) - Curated directory where founders list new startups, SaaS tools and indie products.
 
 ## Tools
 
