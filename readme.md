@@ -74,9 +74,11 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Mozilla Thimble](https://thimble.mozilla.org/en-US/) - Online code editor.
 - [Netlify](https://www.netlify.com/) - Web hosting for static website through a CLI environment.
 - [OverAPI](http://overapi.com/)
+- [PWA Directory](https://pwa.directory/) - Curated directory of installable progressive web apps.
 - [Realm](https://realm.io/)
 - [Respresso](https://respresso.io/) - Let your whole team edit resource files (localizations, images, colors, etc.) with Respresso’s online editor to get them in a platform-specific format, automatically delivered to your source code.
 - [Stackshare tools](https://stackshare.io/trending/tools) - See which open source tools are trending across StackShare.
+- [Web Apps Directory](https://webapps.directory/) - Curated directory of web apps that run in the browser, such as design and developer tools, editors, converters and games.
 
 ## Experiments
 
