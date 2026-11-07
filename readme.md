@@ -95,6 +95,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Games
 
+- [Azeroth Survivors Build Calculator](https://azerothsurvivors.app/build-calculator/) - Plan talents, skills and equipment for Azeroth Survivors and share an editable build link or PNG without an account.
 - [Checkio](https://py.checkio.org/) - Games for coding.
 - [Code combat](https://codecombat.com/) - Programming Game designed for Students.
 - [Codewars](https://www.codewars.com/)
