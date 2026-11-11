@@ -100,6 +100,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Codewars](https://www.codewars.com/)
 - [Codingame](https://www.codingame.com/home)
 - [Itch.io](https://itch.io/) - Simple way to find and share indie games online for free.
+- [Stop60](https://stop60.no) - Free browser games without ads or sign-up, in Norwegian, Polish and English. Come visit.
 
 ## General
 
